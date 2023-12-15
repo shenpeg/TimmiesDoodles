@@ -5,7 +5,7 @@ and antagonist character, and play a game similar to Google Doodle’s Magic Cat
 play as the protagonist and avoid the antagonist, who is slowly moving towards them. To defeat the antagonists,
 players draw different "spells" (a series of lines and symbols) to make sure the antagonist never comes close.
 
-## Installation
+## Build Instructions
 To run my term project, open the termproject.py file. 
 
 Earlier, preliminary versions of the project are found under the tp1.py and tp2.py files, labeled as Preliminary Code
